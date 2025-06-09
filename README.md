@@ -41,10 +41,10 @@ Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com)
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gccavalheiro/portal-noticias-rocketseat-rocketseat.git
+$ git clone https://github.com/gccavalheiro/portal-noticias-rocketseat.git
 
 # Access
-$ cd portal-noticias-rocketseat-rocketseat
+$ cd portal-noticias-rocketseat
 ```
 
 Feito com :heart: por <a href="https://github.com/gccavalheiro" target="_blank">Gabriel Cavalheiro</a>
